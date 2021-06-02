@@ -1,2 +1,2 @@
 # SpringCloudAlibaba
-springcloudAlibaba学习源码
+springcloudAlibaba学习源码，该项目分别使用了springCloud netflix和springcloudAlibaba学习和使用
